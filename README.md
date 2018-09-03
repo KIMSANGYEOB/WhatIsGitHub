@@ -1,5 +1,9 @@
 # WhatIsGitHub
 과연 깃헙이란 무엇인고?
+### 일단 git을 설치합시다.
+[윈도우들의 git 설치](https://git-scm.com/download/win)
+### 귀찮지만 sourceTree도 설치합시다.
+[귀찮은 소스트리 설치](https://www.sourcetreeapp.com/)
 
 ## SVN 워크 플로우는 다음과 같다.
 - trunk디렉토리는 프로젝트의 최신 안정 버전을 나타냅니다.
