@@ -1,7 +1,7 @@
 (function(){
 
 //주석을 답시다.
-//김상엽 바보
+//김상엽 천재라 이미지 오류 수정했음
 const ryan = document.querySelector('#ryan');
 const face = document.querySelectorAll('.ears, .eyes, .muzzle');
 const email = document.querySelector('input[type="text"]');
