@@ -1,5 +1,6 @@
 (function(){
 
+//주석을 답시다.
 const ryan = document.querySelector('#ryan');
 const face = document.querySelectorAll('.ears, .eyes, .muzzle');
 const email = document.querySelector('input[type="text"]');
