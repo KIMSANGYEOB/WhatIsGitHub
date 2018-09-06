@@ -1,5 +1,6 @@
 (function(){
 
+// 주석 테스트    
 //주석을 답시다.
 //김상엽 바보
 const ryan = document.querySelector('#ryan');
