@@ -1,11 +1,8 @@
 (function(){
 
-<<<<<<< HEAD
 //주석을 답시다.gkgkgkgk
-=======
 // 주석 테스트    
 //주석을 답시다.
->>>>>>> 6c92ab4ec54dcda7101726523f5cfe2ba6a8330c
 //김상엽 천재라 이미지 오류 수정했음
 const ryan = document.querySelector('#ryan');
 const face = document.querySelectorAll('.ears, .eyes, .muzzle');
